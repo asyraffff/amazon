@@ -19,7 +19,7 @@ $ yarn start
 
 ## Link
 
-![Live Demo](https://clone-react-amazom-969fe.web.app/)
+Live Demo : https://clone-react-amazom-969fe.web.app/
 
 ## Technologies
 * React JS
