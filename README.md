@@ -17,6 +17,10 @@ $ yarn start
 ## Demo 
 ![GIF](https://media2.giphy.com/media/h8CG93XgqWdm4SCTeZ/giphy.gif)
 
+## Link
+
+![Live Demo](https://clone-react-amazom-969fe.web.app/)
+
 ## Technologies
 * React JS
 * Material UI
