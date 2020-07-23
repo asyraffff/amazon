@@ -1,25 +1,28 @@
-# Amazon Clone
-
-# Summary: 
-
-This is a simple amazon clone website built using React and firebase. 
+<h1 align='center'>🛒 Amazon</h1>
 
 
-# Demo:
-[![Demo amazon clone](https://j.gifs.com/E8MoLY.gif)](https://clone-react-amazom-969fe.web.app/)
-<iframe src='//gifs.com/embed/E8MoLY' frameborder='0' scrolling='no' width='1234px' height='950px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
+<p align='center'>It's a app that have some basic funcionalities from Amazon and Firebase is responsable for the backend</p>
 
-[Live Preview](https://clone-react-amazom-969fe.web.app/)
 
-# How to set up the project on your local machine:
+## Building
+You must have [Node.js](https://nodejs.org) installed on your computer
 
-1. Clone the repository to your local machine
+```bash
+git clone https://github.com/Juniordell/Twitter-Clone
+$ cd Twitter-Clone
+$ yarn install 
+$ yarn start
+```
 
-2. Navigate into the root folder of the project.
+## Demo 
+![GIF](https://media2.giphy.com/media/h8CG93XgqWdm4SCTeZ/giphy.gif)
 
-3. Run "npm install" to install the node modules
-
-4. Run "npm start" to start the project on http://localhost:3000/
+## Technologies
+* React JS
+* Material UI
+* Firebase
+* React Router
+* React Hooks
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
