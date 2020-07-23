@@ -7,6 +7,7 @@ This is a simple amazon clone website built using React and firebase.
 
 # Demo:
 [![Demo amazon clone](https://j.gifs.com/E8MoLY.gif)](https://clone-react-amazom-969fe.web.app/)
+<iframe src='//gifs.com/embed/E8MoLY' frameborder='0' scrolling='no' width='1234px' height='950px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
 
 [Live Preview](https://clone-react-amazom-969fe.web.app/)
 
