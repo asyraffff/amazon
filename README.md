@@ -10,8 +10,8 @@ You must have [Node.js](https://nodejs.org) installed on your computer
 ```bash
 git clone https://github.com/Juniordell/Twitter-Clone
 $ cd Twitter-Clone
-$ yarn install 
-$ yarn start
+$ npm install 
+$ npm start
 ```
 
 ## Demo 
